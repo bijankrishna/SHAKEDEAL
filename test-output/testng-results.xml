@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-02T14:20:12 IST" name="Default suite" finished-at="2021-05-02T14:20:36 IST" duration-ms="24721">
+    <groups>
+    </groups>
+    <test started-at="2021-05-02T14:20:12 IST" name="Default test" finished-at="2021-05-02T14:20:36 IST" duration-ms="24721">
+      <class name="com.genericcodes.BaseClass">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.genericcodes.BaseClass@7f010382]" started-at="2021-05-02T14:20:12 IST" name="configBC" finished-at="2021-05-02T14:20:22 IST" duration-ms="10037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="configBM()[pri:0, instance:com.genericcodes.BaseClass@7f010382]" started-at="2021-05-02T14:20:22 IST" name="configBM" finished-at="2021-05-02T14:20:32 IST" duration-ms="9882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.genericcodes.BaseClass@7f010382]" started-at="2021-05-02T14:20:32 IST" name="configAM" finished-at="2021-05-02T14:20:36 IST" duration-ms="3998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.genericcodes.BaseClass@7f010382]" started-at="2021-05-02T14:20:36 IST" name="configAC" finished-at="2021-05-02T14:20:36 IST" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.genericcodes.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
